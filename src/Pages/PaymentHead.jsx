@@ -1,6 +1,5 @@
 import React from 'react'
-import logoImg from "../components/Assets/Logo/logo.png";
-import walletImg from "../components/Assets/Logo/insideLogo.svg";
+
 
 const PaymentHead = () => {
   return (

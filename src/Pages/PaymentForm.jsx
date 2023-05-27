@@ -4,7 +4,7 @@ import PayForm from './PayForm'
 
 const PaymentForm = () => {
   return (
-    <div className='flex flex-col w-[100%] h-[78%] items-start justify-center md:h-[100%]  md:w-[60%] xl:w-[70%]'>
+    <div className='flex flex-col w-[100%] h-[100%] items-start justify-center md:h-[100%]  md:w-[60%] xl:w-[70%]'>
         <PaymentHead/>
         <PayForm/>
     </div>

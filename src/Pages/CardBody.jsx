@@ -11,7 +11,7 @@ const CardBody = () => {
         <div className='hidden md:block md:h-[5%] md:w-[25%] md:bg-[blue] lg:h-[5%]'></div>
         
         <div className='flex bg-[#E9EDF0] bg-opacity-90 w-[90%]  h-[100%] border-2 rounded-lg shadow-lg md:mt-[20%] md:h-[89%] md:w-[80%] xl:w-[70%] relative'>
-            <div className='bg-[white] bg-opacity-70 w-[95%] mx-auto  h-[48%] border-2 rounded-lg shadow-lg md:w-[85%] md:mt-[-3.9em] md:h-[60%] lg:mt-[-5.2em] lg:h-[60%] lg:w-[80%] xl:h-[58%]'>
+            <div className='bg-[white] bg-opacity-70 w-[95%] mx-auto  h-[48%] border-2 rounded-lg shadow-lg md:w-[85%] md:mt-[-3.9em] md:h-[62%] lg:mt-[-5.2em] lg:h-[60%] lg:w-[80%] xl:h-[58%]'>
                 <div className='flex w-[98%] mx-auto justify-between items-center md:w-[80%] md:py-8 lg:py-7 xl:py-8 '>
                     <img src={chip} alt="/" className="chip w-3 md:w-6 lg:w-8 xl:w-5"/>
                     <img src={wifi} alt="/" className="wifi w-3 md:w-6 lg:w-8 xl:w-5"/>
